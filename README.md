@@ -16,7 +16,7 @@ Soy egresado de la Licenciatura en Ciencias de la Informática por la UPIICSA de
 
 ## Bases de datos
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a></p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
        alt="SQLite"
@@ -24,6 +24,8 @@ Soy egresado de la Licenciatura en Ciencias de la Informática por la UPIICSA de
        width="36"
        height="36" />
 </a>
+</p>
+
 
 <!--
 **SeRdNaH/SeRdNaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
