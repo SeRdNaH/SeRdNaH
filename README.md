@@ -20,13 +20,13 @@ Soy egresado de la Licenciatura en Ciencias de la Informática por la UPIICSA de
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
-       alt="SQLite"
-       title="SQLite"
-       width="36"
-       height="36" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="36" height="36"/></a>
 </p>
+
+## Conocimientos
+* JDBC
+* Jakarta EE 11
+* JPA e Hibernate
 
 
 <!--
